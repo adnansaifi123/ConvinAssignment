@@ -1,0 +1,4 @@
+djangorestframework==3.7.1
+Django==1.11.17
+google_auth
+google-api-python-client
